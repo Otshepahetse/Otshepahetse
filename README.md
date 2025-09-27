@@ -52,10 +52,3 @@ I thrive in both frontend and backend development and enjoy exploring new techno
   <i>“Clean code and well-structured systems build the future.”</i>
 </p>
 
----
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/otshepahetse/otshepahetse/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/otshepahetse/otshepahetse/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/otshepahetse/otshepahetse/output/pacman-contribution-graph.svg">
-</picture>
