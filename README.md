@@ -41,7 +41,7 @@ I thrive in both frontend and backend development and enjoy exploring new techno
   <a href="www.linkedin.com/in/lehlohonolo-tinte-1a12b72a0">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn"/>
   </a>
-  <a href="https://instagram.com/the_titen2.0">
+  <a href="https://instagram.com/@the_titen2.0">
     <img src="https://skillicons.dev/icons?i=instagram" height="40" alt="Instagram"/>
   </a>
 </p>
