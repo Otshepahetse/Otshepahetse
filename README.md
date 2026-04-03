@@ -30,7 +30,6 @@ focused solutions that deliver measurable value.
 
 ### GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=otshepahetse&show_icons=true&theme=radical" alt="GitHub Stats" height="160"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=otshepahetse&theme=radical" alt="GitHub Streak" height="160"/>
 </p>
 
