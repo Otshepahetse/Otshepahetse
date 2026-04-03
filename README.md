@@ -6,10 +6,14 @@
 ---
 
 ### About Me
-I’m a **Full-Stack Developer** passionate about building scalable, efficient, and user-focused applications.  
-I thrive in both frontend and backend development and enjoy exploring new technologies that solve real-world problems.
+Backend-focused **Full-Stack Developer** software developer with experience in
+building scalable, real-world applications using technologies
+such as Spring Boot and .NET and modern web frameworks.
 
-- Currently learning: **Angular • React • Spring Boot • Node.js**
+Passionate about transforming ideas into efficient, user-
+focused solutions that deliver measurable value.
+
+- Currently Working with: **Angular • React • Spring Boot • Node.js • C# • Java**
 - Open to collaborate on: **Spring Boot Applications & Node.js projects**
 - Exploring: **Node.js projects**
 - Ask me about: **Spring Boot & Angular**
