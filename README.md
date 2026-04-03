@@ -34,10 +34,6 @@ focused solutions that deliver measurable value.
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=otshepahetse&theme=radical" alt="GitHub Streak" height="160"/>
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=otshepahetse&theme=algolia&no-frame=true&row=1" alt="GitHub Trophies"/>
-</p>
-
 ---
 
 ### Connect With Me
