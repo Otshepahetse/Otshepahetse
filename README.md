@@ -23,7 +23,7 @@ focused solutions that deliver measurable value.
 
 ### Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,angular,react,typescript,javascript,html,css,bootstrap,tailwind,nodejs,express,mysql,postgres,mongodb,linux,git" />
+  <img src="https://skillicons.dev/icons?i=java,spring,angular,react,typescript,javascript,html,css,bootstrap,tailwind,nodejs,express,mysql,postgres,mongodb,linux,git,cs" />
 </p>
 
 ---
